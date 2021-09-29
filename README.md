@@ -3,6 +3,6 @@ Rossmann operates over 3,000 drug stores in 7 European countries. Currently, Ros
 You are provided with historical sales data for 1,115 Rossmann stores. The task is to forecast the "Sales" column for the test set. 
 ## Key Points
 Project offers a wide scope in Visulaisation & Feature Engineering.
-Handle a large data set.
+Handling a large data set.
 To overcome overfitting "stacking" is used.
 In future multiple models for each specific store can be built.
